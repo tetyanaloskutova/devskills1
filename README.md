@@ -1,3 +1,16 @@
+RESULTS
+------------------------------------------------------------------------------------------------------------------------
+I have used python console for the task, however, it also runs as a Notebook (I did not do the Notebook-style formatting though).
+data_parser.py - console script file
+notebook_parser.ipynb - notebook file
+
+I did not find the name of a country: I looked up the list of the country names in Asia and checked the presence of the relevant letters in the dataset, but there's only enough letters for OMAN and SUDAN and the letters are not in order. So, I guess, I did not understand the task...
+
+
+
+
+TASK
+------------------------------------------------------------------------------------------------------------------------
 # Dev Skills Review Exercise 1
 
 In this repository you will find 3 versions of the same data, each version a bit more annoying to load.
@@ -15,3 +28,4 @@ Don't get hung up on loading the files: slice and dice the data and come up with
 
 ## Bonus Points
 If you can find me the name of a country in Asia hidden in the dataset.  This is one of the more evil issues you can encounter in dirty data.
+
